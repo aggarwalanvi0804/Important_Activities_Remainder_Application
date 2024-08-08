@@ -5,10 +5,3 @@
 - There exists a cool technical solution to this problem:
 - And that is to create an application which will remind us of important activities like drinking water, having lunch, snacks etc by sending notifications on the laptop.
   Hence, I tried implementing it. :p
-
-  **So, Let's run the code**
-  
-  Right-click on the project in the Project Explorer.
-  Select Run As > Maven build....
-  In the Goals field, enter javafx:run.
-  Click Run.  
